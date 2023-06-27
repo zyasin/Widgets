@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">AutoLogoutApp</string>
-    <string name="login_screen">Login Screen</string>
-    <string name="username">Username</string>
-    <string name="password">Password</string>
-    <string name="login">Login</string>
-    <string name="main_screen">Main Screen</string>
-</resources>
